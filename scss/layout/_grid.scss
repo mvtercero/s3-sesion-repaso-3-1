@@ -1,0 +1,9 @@
+.header{
+  display: grid;
+  grid-template-columns: 200px auto auto;
+
+}
+
+.hamburguer{
+  grid-column: 3/4;
+}
